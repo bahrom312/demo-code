@@ -1,1 +1,4 @@
-Demo code for interview. 
+Примеры коды для интервью: 
+* LessonsController.php
+* Присутствие на уроках.png
+* Расписание уроков.png
